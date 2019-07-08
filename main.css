@@ -1,0 +1,17 @@
+header{
+	margin-top: 45px;
+}
+section{
+	padding-right: 40px;
+}
+.image{
+	float: left; 
+	padding-left: 20px;" 
+}
+#button_d{
+	float: right; 
+	border-radius: 25%; 
+	background-color: red; 
+	font-size: 50px; 
+	color: white;
+}
